@@ -1,0 +1,15 @@
+<package format="2">
+  <name>suitesparse_catkin</name>
+  <version>0.0.1</version>
+  <description>suitesparse_catkin</description>
+
+  <author email="patrick.staehli@gmail.com">Patrick Staehli</author>
+  <maintainer email="fadri.furrer@mavt.ethz.ch">Fadri Furrer</maintainer>
+  <maintainer email="tonci.novkovic@mavt.ethz.ch">Tonci Novkovic</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+
+</package>
